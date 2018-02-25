@@ -1,0 +1,4 @@
+.DS_Store
+venv/
+*__pycache__/
+application/__pycache__/models.cpython-36.pyc
